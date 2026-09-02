@@ -1,0 +1,5 @@
+H:\My work\Dot_net_Astah_IT\Dot_net\13_REST_API\obj\Debug\net10.0\13_REST_API.GeneratedMSBuildEditorConfig.editorconfig
+H:\My work\Dot_net_Astah_IT\Dot_net\13_REST_API\obj\Debug\net10.0\13_REST_API.AssemblyInfoInputs.cache
+H:\My work\Dot_net_Astah_IT\Dot_net\13_REST_API\obj\Debug\net10.0\13_REST_API.AssemblyInfo.cs
+H:\My work\Dot_net_Astah_IT\Dot_net\13_REST_API\obj\Debug\net10.0\13_REST_API.csproj.CoreCompileInputs.cache
+H:\My work\Dot_net_Astah_IT\Dot_net\13_REST_API\obj\Debug\net10.0\13_REST_API.sourcelink.json
