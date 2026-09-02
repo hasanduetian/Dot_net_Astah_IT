@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJSJfGDaruI=",
+  "success": true,
+  "projectFilePath": "H:\\Dot_net_Astah_IT\\Dot_net\\14_Dependency_Injection\\14_Dependency_Injection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.11\\microsoft.extensions.dependencyinjection.10.0.11.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.11\\microsoft.extensions.dependencyinjection.abstractions.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
